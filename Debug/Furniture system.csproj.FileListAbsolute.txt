@@ -1,0 +1,46 @@
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Furniture system.exe
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Furniture system.exe.config
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.Shared.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\AxShockwaveFlashObjects.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\ShockwaveFlashObjects.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\stdole.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Booking.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Form1.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Home.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Log_In.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Order.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.profile.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Properties.Resources.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture system.csproj.GenerateResource.cache
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture system.csproj.CoreCompileInputs.cache
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture system.exe
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture system.pdb
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Oracle.DataAccess.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture system.csproj.AssemblyReference.cache
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Furniture system.pdb
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.Manager.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.ManageFurniture.resources
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Policy.2.102.Oracle.DataAccess.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Policy.2.111.Oracle.DataAccess.dll
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Policy.2.102.Oracle.DataAccess.config
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\bin\Debug\Policy.2.111.Oracle.DataAccess.config
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture system.csproj.CopyComplete
+D:\fcis\Third Year\2nd Term\Software Engineering\Furniture system\Furniture system\obj\Debug\Furniture_system.BranchReport.resources
+E:\fcis\3\Software Engineering\Project\Furniture system\Furniture system\bin\Debug\Furniture system.exe.config
+E:\fcis\3\Software Engineering\Project\Furniture system\Furniture system\obj\Debug\Furniture system.exe
+E:\fcis\3\Software Engineering\Project\Furniture system\Furniture system\obj\Debug\Furniture system.pdb
